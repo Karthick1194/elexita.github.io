@@ -1,0 +1,130 @@
+body
+{
+margin:0;
+padding:0;
+background: url(62869259-electronic-wallpapers.jpg);
+background-size:cover;
+background-position:center;
+font-family:san-seriff;
+background-color: aliceblue;
+}
+center h1
+{
+    font-size:25px;
+    font-family: cursive;
+    color:aquamarine;
+}
+center h2
+{
+    font-size:25px;
+    font-family: cursive;
+    color:aquamarine;
+}
+.login-box{
+    margin-top: 20px;
+width:500px;
+height:600px;
+border:2px solid skyblue;
+background:rgba(0,0,0,0.5);
+color:#fff;
+top:400;
+left:670;
+position:absolute;
+transform:translate(-50%,-50%);
+box-sizing:border-box;
+padding:70px;
+border-radius:10px;
+}
+.register-box{
+    width:400px;
+    margin: 0 auto;
+    background: rgba(0,0,0,0.5);
+    padding:70px;
+    border-radius: 10px;
+    border:2px solid skyblue;
+}
+.logo21{
+width:150px;
+text-align:center;
+}
+.inputvalues
+{
+    background: transparent;
+    outline:none;
+    height:40px;
+    color:#fff;
+    font-size: 16px;
+    border-bottom:1px solid #fff;
+	width:100%;
+	margin:0 auto;
+	padding:5px;
+}
+#login_btn
+{
+	margin-top:20px;
+	background-color:#1c8adb;
+	padding:5px;
+	color:white;
+	width:100%;
+    height: auto;
+	text-align:center;
+    border-radius: 20px;
+	font-size:18px;
+	font-weight:bold;
+}
+#register_btn
+{
+	margin-bottom:20px;
+	background-color:#39dc79;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+    border-radius: 20px;
+}
+#signup_btn
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+	background-color:#3498db;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+    border-radius: 20px;
+}
+#back_btn
+{
+	margin-bottom:10px;
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+    border-radius:20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

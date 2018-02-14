@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>ECE LAB</title>
+    
+    <link href="stylee.css" rel="stylesheet" type="text/css">
+</head>
+    <body>
+        <header>
+        
+            <center> <h1 style="color:skyblue"> ELECTRONICS AND COMMUNICATION ENGINEERING DEPARTMENT</h1><br></center>
+        <br>
+        <center><img src="elexita.png" class="elexita"><br></center>
+        <br>
+    <center><h2><b>Laboratory Details</b></h2></center> 
+        <section class="sec2"></section>
+  <section class="lab">
+
+      <p><b>Our ECE Department Lab Manuals</b></p>
+        </section>

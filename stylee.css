@@ -1,0 +1,167 @@
+*
+{
+    margin: 0;
+    padding:0;
+}
+header
+{
+    font-family:sans-serif;
+    background-image:url(63241422-electronic-wallpapers.jpg);
+    height:auto;
+    background-size:cover;
+    background-position:center;
+    text-align: center;
+    margin:auto;
+}
+
+.nav-bar
+{
+    background: rgb(0,0,0,0.5);
+    height:700px;
+}
+
+.logo21
+{
+    margin:10px;
+    width:150px;
+}
+.menu
+{
+    float:center;
+    list-style:none;
+    margin:10px;
+}
+.menu li
+{
+    display:inline-block;
+    margin:10px;
+}
+.menu li a
+{
+    text-decoration: none;
+    color:aqua;
+    padding:10px 50px;
+    font-family:cursive;   
+    letter-spacing: 1px;
+    border: 1px solid #fff;
+}
+.menu li a:hover
+{
+    background: #fff;
+    transition: .4s;
+    color:#000;
+}
+.content
+{
+margin-top:auto;
+}
+.content p
+{
+    margin-bottom:auto;
+    width:auto;
+    margin: 20px;
+    text-align:justify;
+    font-size:20px;
+    line-height:20px;
+    font-family:cursive;
+    color:floralwhite;
+}
+h3
+{
+    font-size:40px;
+    font-family: cursive;
+    color:aquamarine;
+}
+center h1
+{
+    font-size:25px;
+    font-family: cursive;
+    color:aquamarine;
+}
+center h2
+{
+    font-size:25px;
+    font-family: cursive;
+    color:aquamarine;
+}
+.lab
+{
+margin-top:auto;
+}
+.lab p
+{
+    width: auto;
+    margin: 50px auto;
+    text-align:left;
+    font-size:20px;;
+    line-height:25px;
+    font-family:cursive;
+    color:floralwhite;
+
+}
+.men
+{
+    float:none;
+    list-style:disc;
+}
+.men li
+{
+      width: auto;
+    margin: 50px auto;
+    text-align:left;
+    font-size:20px;;
+    line-height:25px;
+    font-family:cursive;
+    color:floralwhite;
+    display:contents;
+    text-align: left;
+    margin:20px 20px;
+}
+.men li a
+{
+    text-decoration:none;
+    color:aqua;
+    padding: 5px 10px;
+    font-family:cursive;   
+    letter-spacing: 2px;
+    border: 1px;
+    
+}
+.men li a:hover
+{
+    background: #fff;
+    transition: .4s;
+    color:#000;
+}
+q{
+    color:blue;
+    font-family: fantasy;
+    font-size:25px;
+}
+.meni
+{
+    float:center;
+    list-style:none;
+    margin:10px;
+}
+.meni li
+{
+    display:inline-block;
+    margin:10px;
+}
+.meni li a
+{
+    text-decoration: none;
+    color:aqua;
+    padding:10px 50px;
+    font-family:cursive;   
+    letter-spacing: 1px;
+    border: 1px solid #fff;
+}
+.meni li a:hover
+{
+    background: #fff;
+    transition: .4s;
+    color:#000;
+}
+
